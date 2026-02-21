@@ -5,6 +5,6 @@ Planno adalah intelligent planner yang mengintegrasikan task management, calenda
 
 Anggota 1: 
 
-Anggota 2: 
+Anggota 2: Desi D Simamora
 
 Anggota 3: 
