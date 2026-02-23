@@ -1,12 +1,13 @@
-\# Website Kelompok
+\# Procrastinator
 
 
+Harun 23/514148/TK/56466
 
-Nama: Desi D Simamora  
+Desi D Simamora 23/514990/TK/56564
 
-NIM: 23/514990/TK/56564  
+Maritza Vania adelia 23/517643/TK/56944
 
+“Project Senior Project TI”
+Departemen Teknologi Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada
 
-
-Ini adalah halaman GitHub Pages kelompok.
 
